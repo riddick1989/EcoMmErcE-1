@@ -1,0 +1,17 @@
+                                                                             In the Name of God
+
+
+
+01. pycharm 
+02. python v3.4
+03. pillow 
+04. pip 
+05. django 
+
+
+
+
+
+
+
+ 
