@@ -13,4 +13,4 @@ Good luck
 
 # CODE                  
 
-<a href="https://github.com/riddick1989/EcoMmErcE-1/tree/813de744caea2daa2d54e3bac533834f88907511"><h2>01-Intial commit</h2></a>
+<a href="https://github.com/riddick1989/EcoMmErcE-1/tree/813de744caea2daa2d54e3bac533834f88907511"><h2>01-Initial commit</h2></a>
